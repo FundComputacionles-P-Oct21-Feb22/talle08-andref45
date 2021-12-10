@@ -1,0 +1,22 @@
+arreglo(5), i[0-n]
+arreglo[0] <-- 10
+arreglo[1] <-- 9
+arreglo[2] <-- 20
+arreglo[3] <-- 29
+arreglo[4] <-- 100
+
+1. Inicio 
+2. arreglo(5), i[0-n]
+3. arreglo[0] <-- 10
+4. arreglo[1] <-- 9
+5. arreglo[2] <-- 20
+6. arreglo[3] <-- 29
+7. arreglo[4] <-- 100
+8. indice, i[0-n]
+9. Para (indice <--0, indice <5, 1) haga 
+10.	 arreglo[indice]
+11. 		Si (arreglo[indice] MOD 2 !=0) Entonces
+12.			Escribir arreglo[indice]
+13.		Fin si
+14. Fin para
+15. Fin 
